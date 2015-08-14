@@ -12,7 +12,7 @@ namespace CSExercises
         {
             Console.Write("Input your name:");
             string name = Console.ReadLine();
-            Console.WriteLine("Good morning " + ""+name);
+            Console.WriteLine("Good morning " +name);
 
         }
     }
