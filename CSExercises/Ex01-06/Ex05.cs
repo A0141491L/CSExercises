@@ -14,7 +14,7 @@ namespace CSExercises
             string a = (Console.ReadLine());
             double b = Convert.ToDouble(a);
             double c = Math.Sqrt(b);
-            Console.WriteLine("{0,0:000}",c);
+            Console.WriteLine("The square root of {0} is {1:0.000}",b,c);
             Console.ReadLine();
         }
     }
