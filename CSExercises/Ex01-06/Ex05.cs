@@ -17,5 +17,5 @@ namespace CSExercises
             Console.WriteLine("The square root of {0} is {1:0.000}",b,c);
             Console.ReadLine();
         }
-    }
+    } 
 }
